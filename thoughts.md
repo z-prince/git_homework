@@ -9,3 +9,7 @@ Add two new strategies you are committed to trying during the rest of Mod 0 to `
 1. I want to be more open to answering questions from my fellow classmates and reaching out when I need help from them.
 
 2. I want to ensure I slow down and practice due dilligence to prevent easily avoidable errors.
+
+Add at least one shoutout to someone who has helped you, supported you, or just been a positive presence in the last two weeks!
+
+All of the instructors are great but Amy Holt has specifically been super helpful outside of class and aided me with whatever issues I was having on solo work!
