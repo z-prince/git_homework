@@ -14,4 +14,3 @@ Add at least one shoutout to someone who has helped you, supported you, or just 
 
 All of the instructors are great but Amy Holt has specifically been super helpful outside of class and aided me with whatever issues I was having on solo work!
 
-I love using git.
